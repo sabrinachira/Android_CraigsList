@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">P5_Bikes</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="info"> JSON Bike Site</string>
+    <string name="info_summary"> Select which site to get JSON data from</string>
+    <string name="action_settings"> Settings</string>
+    <string name="PREF_LIST">PREF_LIST</string>
+    <string name="Nothing_Found">Nothing Found</string>
+    <string name="dialog_message">The Network is unavailable. Please try your request again later.</string>
+    <string name="dialog_title">No Network Connection</string>
+    <string name="ok">OK</string>
+</resources>
